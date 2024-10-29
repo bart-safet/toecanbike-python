@@ -1,2 +1,3 @@
 # toecanbike-python
-This repo contains sample code for interaction with the toecan bike platform. 
+This repository contains sample code for interaction with the toecan bike platform and its API's. 
+
